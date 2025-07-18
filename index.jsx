@@ -1,3 +1,15 @@
+<img
+  src="/banner.jpg"
+  alt="Cloud Romania Banner"
+  style={{
+    width: '100%',
+    maxHeight: '400px',
+    objectFit: 'cover',
+    marginBottom: '20px',
+    borderRadius: '10px'
+  }}
+/>
+
 <section id="regulament">
   <h2>Regulament General</h2>
 
